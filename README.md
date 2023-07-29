@@ -11,7 +11,7 @@ Resource|资源目录（存放Tar包的，使用离线版得先从这个里面�
 | :----: | :----: | 
 Install-JDKxx-Offline.sh|离线版脚本
 Install-JDKxx-Github.sh|在线版脚本（Github源，国内访问可能不稳定）
-Install-JDKxx-INJDK.sh|在线版脚本（INJDK源，国内专属，经作者测试下载速度可达5MB/S，地址:https://www.injdk.cn）
+Install-JDKxx-INJDK.sh|在线版脚本（INJDK源，国内专属，经作者测试下载速度可达5MB/S，地址:https://www.injdk.cn ）
 # 如何使用？
 以下示例都按你有root权限的情况下来操作的（应该我写的这句话是废话吧，希望吧）没有root权限请使用"sudo"或使用"sudo -i"、"sudo su"、"su root"（四选一，选一个你最喜欢的进行操作）
 ## 在线版
